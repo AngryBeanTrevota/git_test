@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T17:50:15.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.2" etag="ihEBjpplfng83qIg3qYh" type="github"><diagram id="-FwwcNIZOOp7LqTNOTIH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-15T17:53:10.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.2" etag="evSY5ZOAvr2ZjvSlzb2j" type="github">
+  <diagram id="Ff-nEtc6mX_RvF_tfuvC" name="Página-1">
+    <mxGraphModel dx="998" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ldgfXXNhYduUaPM9Zql8-1" value="Pendente" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="135" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ldgfXXNhYduUaPM9Zql8-2" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="100" y="145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldgfXXNhYduUaPM9Zql8-3" value="Aprovado sem &lt;br&gt;correções necessárias" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldgfXXNhYduUaPM9Zql8-5" value="Aprovado com&lt;br&gt;correções necessárias" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldgfXXNhYduUaPM9Zql8-6" value="Reprovado" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ldgfXXNhYduUaPM9Zql8-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldgfXXNhYduUaPM9Zql8-2" target="ldgfXXNhYduUaPM9Zql8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
