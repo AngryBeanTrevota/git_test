@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T16:41:03.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.2" etag="XSCNeGV9NJxJn0A-lwXs" type="github"><diagram id="-iF_d4GIhPjzZRQHzH7j">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-15T17:19:50.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.2" etag="sfmE5XtDjlq1XoOLRAIp" type="github">
+  <diagram id="q76ZIf6TZkYUEQgMrepu" name="Página-1">
+    <mxGraphModel dx="998" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-1" value="Submissor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-3" value="Avaliador&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-4" value="Coordenador de Área" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-5" value="RF01: Submeter artigo/minicurso/palestra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-6" value="RF02: Realizar cadastro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-7" value="RF03: Cadastro/Exclusão de avaliações de submissões" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-8" value="RF04: Manter registro dos avaliadores no sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="40" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-9" value="RF06: Alterar/Excluir submissões" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-10" value="RF07: Notificar submissores da aprovação ou não de sua submissão" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-11" value="RF08: Emitir relatório das avaliações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="bYQ8mHcd4WpXQeLMCmdZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="240" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bYQ8mHcd4WpXQeLMCmdZ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bYQ8mHcd4WpXQeLMCmdZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="bYQ8mHcd4WpXQeLMCmdZ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.997;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bYQ8mHcd4WpXQeLMCmdZ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.975;entryY=0.345;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bYQ8mHcd4WpXQeLMCmdZ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="330" as="sourcePoint" />
+            <mxPoint x="680" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYQ8mHcd4WpXQeLMCmdZ-19" value="RF05: Manter registro dos temas do congresso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
