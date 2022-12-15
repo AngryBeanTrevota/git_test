@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T17:41:58.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.2" etag="HJrpqonUOvGoBy22Jva3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T17:43:17.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.6.2" etag="mQiVJTd14Xseyi0za6OI" type="github">
   <diagram id="ekc1og9A78pFyZE3Uyi7" name="Página-1">
     <mxGraphModel dx="998" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,15 @@
         </mxCell>
         <mxCell id="l2SYp345RRYpBKZvANww-31" value="Mensagem &quot;Submissão enviada&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2SYp345RRYpBKZvANww-32" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="299" as="sourcePoint" />
+            <mxPoint x="100" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2SYp345RRYpBKZvANww-33" value="Mostra formulário minicurso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
